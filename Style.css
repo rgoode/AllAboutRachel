@@ -6,7 +6,7 @@ body {
 
 
 .intro{
-    background-color: darkorchid;
+    background-color: rgb(205, 130, 243);
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -18,7 +18,7 @@ body {
 }
 
 .aboutme{
-    background-color: darkorchid;
+    background-color: rgb(205, 130, 243);
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -31,7 +31,7 @@ body {
 }
 
 .Linklayout{
-    background-color: coral;
+    background-color: rgb(241, 164, 136);
     display: flexbox;
     text-align: center;
     
@@ -43,7 +43,7 @@ body {
 
 }
 .button1 {
-    background-color: cornflowerblue;
+    background-color: rgb(180, 202, 243);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -53,7 +53,7 @@ body {
     font-size: 16px;
   }
   .button2 {
-    background-color:darksalmon;
+    background-color:rgb(238, 151, 122);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -63,7 +63,7 @@ body {
     font-size: 16px;
   }
   .button3 {
-    background-color: lightsteelblue;
+    background-color: rgb(161, 197, 243);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -160,7 +160,7 @@ body {
 
 
 .Footer {
-    background-color: darkorchid;
+    background-color: rgb(205, 130, 243);
     display: flex;
     flex-direction: row;
     text-align: center;
