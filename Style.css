@@ -16,6 +16,14 @@ body {
     flex-basis: 7.5%;
     align-items: center;
 }
+.dev_paragraph{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+
+
 
 .aboutme{
     background-color: rgb(205, 130, 243);
