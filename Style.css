@@ -4,6 +4,165 @@ body {
 	padding: 0;
 }
 
+
+.intro{
+    background-color: darkorchid;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+}
+
+.aboutme{
+    background-color: darkorchid;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+
+}
+
+.Linklayout{
+    background-color: coral;
+    display: flexbox;
+    text-align: center;
+    
+}
+.button1 {
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button2 {
+    background-color:darksalmon;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button3 {
+    background-color: lightsteelblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .buttons {
+    background-color: lightsteelblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  } 
+
+  .browse{
+      text-align: center;
+
+  }
+
+
+
+.Footer {
+    background-color: darkorchid;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+}
+.Links{
+    display: flex;
+    flex-direction: row;
+    flex-basis: 25%;
+}
+.li {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+  }
+
+
+
+
+.mid-section {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 85%;
+}
+.content {
+    background-color: rgb(219, 174, 217);
+    flex-basis: 93%;
+    display: flex;
+    flex-direction: column;
+}
+.side-panel {
+    background-color: rgb(219, 174, 217);
+    flex-basis: 3.5%;
+}
+.containers {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.content-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; 
+    height: 90%;
+}
+.content-box {
+    background-color: darkorchid;
+    width: 30%;
+    height: 90%;
+    box-shadow: 1.5rem 1.5rem 1.5rem rgb(42, 80, 80);
+    border-radius: .5rem;
+}
+.pictures {
+    align-items: center;
+    width: 63%;
+    height: 30%;
+    margin-bottom: 3%;
+}
+.sk {
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+.aboutme {
+    height: 100%;
+    text-align: justify;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+#hobbielist {
+    padding: 0.25rem;
+
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
@@ -13,7 +172,22 @@ div {text-align: center;}
 <p>This is a paragraph.</p>
 <div>This is a div.</div>
 
+.home{
+    background-color: aqua;
+    text-align: center;
+    flex-direction: column;
 
+}
+.portfolio{
+    background-color: aqua;
+    text-align: center;
+    flex-direction: row;
+
+}
+.about{
+    background-color: aqua;
+    text-align: center;
+    flex-direction: column;
 
 
 
