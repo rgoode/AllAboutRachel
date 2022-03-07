@@ -36,6 +36,12 @@ body {
     text-align: center;
     
 }
+.pageconact{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
 .button1 {
     background-color: cornflowerblue;
     border: none;
